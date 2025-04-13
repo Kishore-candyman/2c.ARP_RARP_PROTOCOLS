@@ -79,9 +79,11 @@ while True:
 ```
 ## OUPUT -RARP
 Client:
+
 ![CNrarpclient](https://github.com/user-attachments/assets/2d26d807-939f-42c3-bc79-cb14f1d739fb)
 
 Server:
+
 ![CNrarpserver](https://github.com/user-attachments/assets/83de4b12-998a-4d6a-8ddc-4566fde34e8f)
 
 ## RESULT
