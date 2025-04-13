@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
-To write a python program for simulating ARP protocols using TCP.
+To write a python program for simulating ARP/RARP protocols using TCP.
 ## ALGORITHM:
 ## Client:
 1. Start the program
@@ -44,9 +44,11 @@ while True:
 ```
 ## OUPUT - ARP
 Client:
+
 ![CNarpclient](https://github.com/user-attachments/assets/66cc0238-7877-4291-b0c8-f004a6e92916)
 
 Server:
+
 ![CNarpserver](https://github.com/user-attachments/assets/e208a529-37e9-4cc6-a404-b8fc151b2d8b)
 
 ## PROGRAM - RARP
@@ -83,5 +85,5 @@ Server:
 ![CNrarpserver](https://github.com/user-attachments/assets/83de4b12-998a-4d6a-8ddc-4566fde34e8f)
 
 ## RESULT
-Thus, the python program for simulating ARP protocols using TCP was successfully 
+Thus, the python program for simulating ARP/RARP protocols using TCP was successfully 
 executed.
